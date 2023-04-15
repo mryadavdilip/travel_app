@@ -1,0 +1,48 @@
+{
+    "project_info": {
+        "project_number": "7314566921",
+        "project_id": "easy-city-scape",
+        "storage_bucket": "easy-city-scape.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:7314566921:android:637ddbe591ee40ac52edd8",
+            "android_client_info": {
+                "package_name": "com.example.city_scape"
+            }
+        },
+        "oauth_client": [{
+                "client_id": "7314566921-8635bmer4oor6m4pu3fpcht8cjjpo7tg.apps.googleusercontent.com",
+                "client_type": 1,
+                "android_info": {
+                    "package_name": "com.example.city_scape",
+                    "certificate_hash": "886d4bbd9c8126998217e1183626101f28d84240"
+                }
+            },
+            {
+                "client_id": "7314566921-7n060ula0mde0i8nkhkc0q0tgsogbb5l.apps.googleusercontent.com",
+                "client_type": 3
+            }
+        ],
+        "api_key": [{
+            "current_key": "AIzaSyC9JM4FvaeTcOYbcnwa2xQ8s8Nn_95d6kY"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                        "client_id": "7314566921-7n060ula0mde0i8nkhkc0q0tgsogbb5l.apps.googleusercontent.com",
+                        "client_type": 3
+                    },
+                    {
+                        "client_id": "7314566921-gduehbfjm2psum3s8ko711nr6vol9kff.apps.googleusercontent.com",
+                        "client_type": 2,
+                        "ios_info": {
+                            "bundle_id": "com.example.firebaseMethode"
+                        }
+                    }
+                ]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}
